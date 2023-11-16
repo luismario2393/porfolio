@@ -13,8 +13,8 @@ export const Ul = styled.ul`
     position: relative;
     margin-bottom: 10px;
     padding-left: 20px;
-    font-family: var(--font-mono);
-    font-size: var(--fz-xs);
+    font-family: "Lexend", sans-serif;
+    font-size: ${({ theme }) => theme.font.fzSm};
     color: ${({ theme }) => theme.colors.lightGray};
 
     &:before {

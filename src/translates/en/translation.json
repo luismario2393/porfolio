@@ -22,6 +22,9 @@
       "redux": "Redux",
       "node": "Node.js",
       "flutter": "Flutter"
+    },
+    "experience_section": {
+      "title": "Where I have worked"
     }
   }
 }

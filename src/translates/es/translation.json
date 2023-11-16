@@ -23,5 +23,8 @@
       "node": "Node.js",
       "flutter": "Flutter"
     }
+  },
+  "experience_section": {
+    "title": "Donde he trabajado"
   }
 }
