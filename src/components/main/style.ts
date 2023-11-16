@@ -1,11 +1,5 @@
 import styled from "styled-components";
-
-interface TextProps {
-  fontSize?: string;
-  color?: string;
-  weight?: number;
-  marginTop?: number;
-}
+import { TextProps } from "../common";
 
 export const Header = styled.header`
   display: flex;
@@ -13,10 +7,7 @@ export const Header = styled.header`
   align-items: center;
   height: 100vh;
 `;
-export const Text = styled.p<TextProps>`
-  ${({ marginTop }) => marginTop && `margin-top: ${marginTop}px`};
-  color: ${({ theme, color }) => (color ? color : theme.colors.blue)};
-`;
+
 export const TextTitle = styled.p<TextProps>`
   margin: 0;
   color: ${({ theme, color }) => (color ? color : theme.colors.black)};
@@ -35,12 +26,5 @@ export const TextTitle = styled.p<TextProps>`
   @media (max-width: 320px) {
     font-size: ${({ theme }) => theme.font.fzXxl};
     transition: all 0.3s ease-in-out;
-  }
-`;
-export const ContainerText = styled.div`
-  width: 100%;
-
-  @media (min-width: 768px) {
-    width: 60%;
   }
 `;

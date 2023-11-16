@@ -10,5 +10,18 @@
     "name": "Luis Mario Amor Sánchez.",
     "profession": "Software developer Frontend.",
     "profile": "Soy un apasionado desarrollador de Software con más de 2 años de experiencia, especializado en lenguajes Front end para el desarrollo de aplicaciones web y móviles. Mi enfoque proactivo y mi capacidad para resolver problemas de forma autónoma me permiten crear experiencias de usuario excepcionales y atractivas."
+  },
+  "about_section": {
+    "paragraph_1": "¡Saludos! Mi nombre es Luis Mario Amor, y mi pasión radica en dar vida a creaciones en el vasto mundo de Internet. Mi incursión en el desarrollo web se remonta a 2020, cuando decidí hacer un cambio en mi carrera profesional pasando de la ingeniería ambiental al desarrollo de software.",
+    "paragraph_2": "Si avanzamos hasta el día de hoy, he tenido el privilegio de colaborar en distintos entornos, desde una agencia de desarrollo de software, una startup dedicada al alquiler de dark kitchens y una startup de alquiler de vehículos para transporte de carga.Mi foco principal en la actualidad se centra en la creación de productos y experiencias digitales accesibles en el lado del frontend, tanto productos webs como para productos moviles.",
+    "paragraph_3": "Algunas de las tecnologías con las que he estado inmerso últimamente incluyen:",
+    "skills": {
+      "javaScript": "JavaScript (ES6+)",
+      "typeScript": "TypeScript",
+      "react": "React",
+      "redux": "Redux",
+      "node": "Node.js",
+      "flutter": "Flutter"
+    }
   }
 }

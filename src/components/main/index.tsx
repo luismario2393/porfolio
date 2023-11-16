@@ -1,6 +1,6 @@
 import theme from "../../theme";
-import { Container } from "../common";
-import { Text, Header, TextTitle, ContainerText } from "./style";
+import { Container, ContainerText, Text } from "../common";
+import { Header, TextTitle } from "./style";
 import { useTranslation } from "react-i18next";
 
 export const Main = () => {
