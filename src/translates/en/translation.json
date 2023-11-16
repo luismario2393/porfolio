@@ -1,0 +1,14 @@
+{
+  "_": "Example",
+  "about": "About",
+  "experience": "Experience",
+  "projects": "Projects",
+  "contact": "Contact",
+  "resume": "Resume",
+  "main": {
+    "title": "Hi, my name is",
+    "name": "Luis Mario Amor Sánchez.",
+    "profession": "Software developer Frontend.",
+    "profile": "I am a passionate Software developer with more than 2 years of experience, specialized in Front end languages for the development of web and mobile applications. My proactive approach and ability to autonomously solve problems allow me to create exceptional and engaging user experiences."
+  }
+}

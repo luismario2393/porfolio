@@ -1,0 +1,14 @@
+{
+  "_": "Ejemplo",
+  "about": "Sobre  mí",
+  "experience": "Experiencia",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "resume": "Currículum",
+  "main": {
+    "title": "Hola, mi nombre es",
+    "name": "Luis Mario Amor Sánchez.",
+    "profession": "Software developer Frontend.",
+    "profile": "Soy un apasionado desarrollador de Software con más de 2 años de experiencia, especializado en lenguajes Front end para el desarrollo de aplicaciones web y móviles. Mi enfoque proactivo y mi capacidad para resolver problemas de forma autónoma me permiten crear experiencias de usuario excepcionales y atractivas."
+  }
+}
